@@ -27,7 +27,8 @@ The dashboard helps HR teams monitor KPIs and make data-driven decisions.
 3. Explore the interactive dashboard
 
 ## Dashboard Preview
-<img width="1210" height="671" alt="image" src="https://github.com/user-attachments/assets/ee1d1359-88d0-4579-b84e-a28b65684d34" />
+<img width="1184" height="655" alt="image" src="https://github.com/user-attachments/assets/081bffe9-7bf8-4f99-8681-255003747c88" />
+
 
 ## Insights
 - Highest attrition observed in **26–35 age group**  
