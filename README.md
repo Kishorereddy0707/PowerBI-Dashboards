@@ -25,6 +25,7 @@ The dashboard helps HR teams monitor KPIs and make data-driven decisions.
 1. Download the .pbix file
 2. Open with Power BI Desktop
 3. Explore the interactive dashboard
+
 ## Dashboard Preview
 <img width="1210" height="671" alt="image" src="https://github.com/user-attachments/assets/ee1d1359-88d0-4579-b84e-a28b65684d34" />
 
@@ -34,6 +35,5 @@ The dashboard helps HR teams monitor KPIs and make data-driven decisions.
 - Major departments impacted: **Sales & Research**
 
 # Connect With Me
-
 [LinkedIn]:- (https://linkedin.com/in/nalwala-j-b15900210)
- Email: n.satyamson@gmail.com
+Email: n.satyamson@gmail.com
